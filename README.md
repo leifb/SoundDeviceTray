@@ -5,7 +5,7 @@ It is basically just an autoIT script that talks to [Dan Stevens' AudioEndPointC
 
 
 ## Dependencies
-In order to uses this, you will need `Visual C++ Redistributable for Visual Studio 2015`. You can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
+In order to use this, you will need `Visual C++ Redistributable for Visual Studio 2015`. You can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 
 ## Create the exe yourself
 In order to compile, you will need the `EndPointController.exe` and the `Audio.EndPoint.Controller.dll` in the script file directory.
